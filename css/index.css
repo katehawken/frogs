@@ -65,7 +65,7 @@ p {
 }
 
 .jumbotron {
-  background-image: url(../images/background.jpg);
+  background-image: url("images/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: calc(100vh - 25px);
