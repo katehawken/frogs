@@ -44,6 +44,11 @@ p {
   margin: 0px 15px;
 }
 
+.button {
+ color: #FFFFFF;
+}
+
+
 .dropdown-menu {
   background: url("images/transparency.png");
   background-color: transparent !important;
@@ -57,7 +62,7 @@ p {
 }
 
 .customNav a {
-  color: white !important;
+  color: #464C46 !important;
 }
 
 .navCTA {
@@ -65,7 +70,7 @@ p {
 }
 
 .jumbotron {
-  background: url("images/background.jpg");
+  background-color: #EAFEEA;
   background-size: cover;
   background-repeat: no-repeat;
   height: calc(100vh - 25px);
@@ -78,7 +83,7 @@ p {
   width: 70%;
   min-width: 500px;
   max-width: 700px;
-  color: white;
+  color: #464C46;
   text-align: left;
 }
 
@@ -138,7 +143,7 @@ p {
 
 
 .emailContain {
-  background: url("images/emailBG.jpg");
+  background: url(../images/emailBG.jpg);
   background-size: cover;
   display: flex;
   align-items: center;
